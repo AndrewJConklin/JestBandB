@@ -1,14 +1,23 @@
 {
-  "name": "practice",
+  "name": "jest-bandb",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewJConklin/JestBandB.git"
+  },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewJConklin/JestBandB/issues"
+  },
+  "homepage": "https://github.com/AndrewJConklin/JestBandB#readme",
   "dependencies": {
     "jest": "^28.0.1"
   }
