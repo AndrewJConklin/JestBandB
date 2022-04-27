@@ -6,11 +6,11 @@
   "scripts": {
     "test": "jest"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AndrewJConklin/JestBandB.git"
   },
-  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/AndrewJConklin/JestBandB#readme",
   "dependencies": {
-    "jest": "^28.0.1"
+    "jest": "^28.0.2"
   }
 }
